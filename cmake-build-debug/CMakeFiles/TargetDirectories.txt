@@ -1,0 +1,3 @@
+C:/Users/smirn/OneDrive/Desktop/Study/C++/Numerical_Methods_DE/cmake-build-debug/CMakeFiles/Numerical_Methods_DE.dir
+C:/Users/smirn/OneDrive/Desktop/Study/C++/Numerical_Methods_DE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/smirn/OneDrive/Desktop/Study/C++/Numerical_Methods_DE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
